@@ -39,11 +39,25 @@ To explore our project and its functionalities, follow these steps:
 2. Open the respective notebooks in a Jupyter environment.
 3. Follow the instructions within each notebook to execute and explore the code.
 
-## Contributions and Feedback
+<div align="center">
 
-We welcome contributions and feedback from the community. Feel free to open issues or submit pull requests with any suggestions, enhancements, or bug fixes.
+# Contributors
 
-Let's revolutionize AI interaction for India together! 🚀🇮🇳
+**Arav Jain**: [samsung-prism-round-2.ipynb](samsung-prism-round-2.ipynb)
+
+**Vatsal Jha**: [samsungrecommender.ipynb](samsungrecommender.ipynb)
+
+**Ayushman Kar**: Led backend implementation, database integration, and deployment.
+
+**Dilshad Sukheswala**: Managed backend development and user interface design.
+
+
+[![Arav Jain](https://img.shields.io/badge/Arav_Jain-%E2%9D%A4%EF%B8%8F-brightgreen)](https://github.com/AravJain007)
+[![Vatsal Jha](https://img.shields.io/badge/Vatsal_Jha-%E2%9D%A4%EF%B8%8F-blue)](https://github.com/Vatsal-Jha256)
+[![Ayushman Kar](https://img.shields.io/badge/Ayushman_Kar-%E2%9D%A4%EF%B8%8F-red)](https://github.com/KarAyushman)
+[![Dilshad](https://img.shields.io/badge/Dilshad-%E2%9D%A4%EF%B8%8F-orange)](https://github.com/DILSHAD477)
+
+</div>
 
 ---
 
